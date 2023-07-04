@@ -1,5 +1,4 @@
 #Libs
-
 import pandas as pd
 import numpy as np
 
@@ -50,7 +49,7 @@ with tab1:
     
     #boxsplot
     fig1 = px.box(df_idhm_esp, y='idhm', color = 'classe')
-    fig1.update_layout(title_text="Boxsplot IDHM")
+    fig1.update_layout(title_text="Boxplot IDHM")
     st.plotly_chart(fig1,  use_container_width = True)
     
     #Grafico Donut
@@ -61,7 +60,7 @@ with tab1:
 with tab2:
     #Boxsplot
     fig2 = px.box(df_idhm_esp, y='idhm_educacao', color = 'classe')
-    fig2.update_layout(title_text="Boxsplot IDHM com o indicador de Educação")
+    fig2.update_layout(title_text="Boxplot IDHM com o indicador de Educação")
     st.plotly_chart(fig2,  use_container_width = True)
 
     #Grafico Donut
@@ -82,7 +81,7 @@ with tab2:
 with tab3:
     #Boxsplot
     fig3 = px.box(df_idhm_esp, y='idhm_longevidade', color = 'classe')
-    fig3.update_layout(title_text="Boxsplot IDHM com o indicador de Longevidade")
+    fig3.update_layout(title_text="Boxplot IDHM com o indicador de Longevidade")
     st.plotly_chart(fig3,  use_container_width = True)
     #Donut
     fig7 = make_subplots(rows=1, cols=2, specs=[[{'type':'domain'}, {'type':'domain'}]])
@@ -105,7 +104,7 @@ with tab3:
 with tab4:
     #Boxsplot
     fig4 = px.box(df_idhm_esp, y='idhm_renda', color = 'classe')
-    fig4.update_layout(title_text="Boxsplot IDHM com o indicador de Renda")
+    fig4.update_layout(title_text="Boxplot IDHM com o indicador de Renda")
     st.plotly_chart(fig4,  use_container_width = True)
 
     #Donut
