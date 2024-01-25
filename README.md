@@ -1,4 +1,4 @@
-# DataViz com IDHM do Estado de São Paulo no ano de 2010.
+# DataViz do IDHM do Estado de São Paulo no Ano de 2010.
 
 ## Descrição do Projeto
 
