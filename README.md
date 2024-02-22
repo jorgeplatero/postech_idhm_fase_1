@@ -18,4 +18,4 @@ Streamlit
 
 ## Link para a Aplicação
 
-Dashboard Streamlit: https://jorgeplatero-postech-idhm-fase1-app-sot7ma.streamlit.app/
+Dashboard Streamlit: https://postechidhmfase1-gefaxadhrrgxvcmpaglmse.streamlit.app/
