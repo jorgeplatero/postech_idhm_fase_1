@@ -8,14 +8,13 @@ Este projeto consiste em um dashboard desenvolvido no Streamlit que ilustra os i
 
 ## Fonte de Dados
 
-https://www.ipea.gov.br/ipeageo/arquivos/bases/IDH_2010.xls
+Clique <a style="text-decoration:none;" href="https://www.ipea.gov.br/ipeageo/arquivos/bases/IDH_2010.xls" target="_blank">aqui</a> para fazer o download dos dados.
 
 ## Tecnologias Utilizadas
 
-Python
-
-Streamlit
+- Python
+- Streamlit
 
 ## Link para a Aplicação
 
-Dashboard Streamlit: https://postechidhmfase1-gefaxadhrrgxvcmpaglmse.streamlit.app/
+Dashboard Streamlit: <a style="text-decoration:none;" href="https://postechidhmfase1-gefaxadhrrgxvcmpaglmse.streamlit.app/" target="_blank">link</a>.
