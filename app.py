@@ -24,7 +24,7 @@ tab0, tab1, tab2, tab3, tab4 = st.tabs(['Geral','IDHM', 'IDHM - Escolaridade', '
 # Separando as Tabs
 with tab0:
     '''
-    ## O que é o IDHM
+    ## O que é o IDHM?
 
     Links importantes:
 
